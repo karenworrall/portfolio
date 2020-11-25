@@ -1,0 +1,56 @@
+.testimonials{
+    min-height: 100vh;
+    padding: 100px 0;
+}
+.testimonial-wrapper{
+    padding: 0 20px
+}
+
+.experience{
+    margin: auto 15%;
+
+    opacity: 0;
+}
+
+.section-animate .experience{
+    animation: slideUp 500ms ease-in-out;
+    animation-delay: 300ms;
+    animation-fill-mode: both;
+}
+
+/* .logo-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px;
+} */
+
+/* .logo-wrapper img{
+    height: 100px;
+    max-width: 400px;
+    margin: 20px;
+    max-width: 80vw;
+} */
+
+.section-animate .logo-wrapper img{
+    animation: popIn 500ms ease-in-out;
+    animation-fill-mode: both;
+    animation-delay: 300ms;
+}
+
+.endorsments{
+    margin: auto 15%;
+
+    opacity: 0;
+}
+
+.section-animate .endorsments{
+    animation: slideUp 500ms ease-in-out;
+    animation-delay: 300ms;
+    animation-fill-mode: both;
+}
+
+.clients .logo-wrapper{
+    margin: 60px;
+}

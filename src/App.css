@@ -1,38 +1,124 @@
-.App {
-  text-align: center;
+header {
+    background: var(--maincolor);
+    text-align: center;
+    position: fixed;
+    z-index: 998;
+    width:100%;
+    top: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a:link{
+  color: var(--darksecondcolor);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+a:visited{
+  color: var(--darksecondcolor);
+}
+
+a:hover{
+  color: var(--thirdcolor)
+}
+
+.Footer a:hover{
+  color: var(--forthcolor)
+}
+
+.section-title{
+
+    
+    /* text-transform: uppercase; */
+    text-align: center;
+    opacity: 0;
+    color: var(--thirdcolor);
+    font-family: 'Trocchi', serif;
+    /* transform: translateX(100vw); */
+}
+
+/* .section-animate{
+    transform: translateX(-100vw, 0);
+    transition: transform 1s;
+} */
+
+.section-animate .section-title{
+    animation: slideInRight 300ms linear;
+    animation-fill-mode: both;
+}
+
+.fakeButton {
+	/* box-shadow: 0px 10px 14px -7px #276873; */
+	/* background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%); */
+	background-color: var(--secondcolor);
+	border-radius:10px;
+  display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 26px;
+  
+	/* text-shadow:0px 1px 0px #3d768a; */
+}
+
+.fakeButton  a{
+  color: var(--thirdcolor);
+  text-decoration:none;
+}
+
+.fakeButton:hover {
+	/* background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%); */
+	background-color: var(--darksecondcolor);
+}
+.fakeButton:active {
+	position:relative;
+	top:1px;
+}
+
+@keyframes slideInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(300px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@keyframes slideInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-500px);
   }
-  to {
-    transform: rotate(360deg);
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideUp {
+  0% {
+    opacity: 0;
+    transform: translateY(100px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes popIn {
+  0% {
+    transform: scale(0);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+  80% {
+    transform: scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
   }
 }

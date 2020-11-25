@@ -1,0 +1,102 @@
+/* .modalWrapper{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    left: 0;    
+    bottom: 0;
+    margin: auto;
+    z-index: 999;
+    background-color: rgba(0,0,0,0.26);
+
+    display: flex;
+    align-items: center;
+} */
+
+.portfolioModal{
+    /* position: relative; */
+    /* z-index: 30; */
+    box-shadow: 1px 6px 8px rgba(#000000, 0.3);
+    /* max-width: 80vw; */
+    /* margin: 80px auto 80px auto; */
+    border-radius: 20px;
+    /* background: white; */
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.portfolioModal img{
+    max-width: 90%;
+    /* margin: 20px; */
+    max-height: 75vh;
+    height: auto;
+}
+
+.modal-info{
+
+    text-align: left;
+    margin: 20px;
+    margin-right: 50px;
+    max-width: 300px;
+}
+
+.link{
+    margin: 20px auto;
+    /* border: pink; */
+    /* border-style: solid; */
+    width: 100px;
+    height: 30px;
+    /* text-align: center; */
+    cursor: pointer;
+    line-height: 30px;
+}
+/* .close{
+    position: absolute;
+    right: 18px;
+    color: white;
+    top: 10px;
+    text-align: center;
+    width: 18px;
+    height: 18px;
+    background-color: #c1c1c1;
+    border-radius: 50%;
+    cursor: pointer;
+    line-height: 100%;
+
+    > * {
+    margin-bottom: 3.5px;
+    }
+} */
+
+/* .fadein{
+    animation: fadein 0.5s forwards;
+}
+
+.fadeout{
+    animation: fadein 0.5s forwards;
+    animation-direction: reverse;
+} */
+
+/* @keyframes fadein{
+    0%{
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    10%{
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    90%{
+        transform: scale(1);
+        opacity: 1;
+    }
+    100%{
+        transform: scale(1);
+        opacity: 1;
+
+    }
+} */

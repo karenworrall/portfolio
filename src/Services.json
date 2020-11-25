@@ -1,0 +1,77 @@
+[
+    {
+        "id": 0,
+        "title": "Content Creation",
+        "info": "Articles, blogs, how-to pieces, guides, whatever you need. On any topic and specialising in travel."
+    },
+    {
+        "id": 1,
+        "title": "Social Media",
+        "info": "Helping you find your voice on social media to stand out from the crowd, stay relevant and talked about."
+    },
+    {
+        "id": 2,
+        "title": "Press and Print",
+        "info": "Engaging copy that people want to read, with catchy headlines."
+    },
+    {
+        "id": 3,
+        "title": "Advertising Content",
+        "info": "Well-researched content written in your publication’s tone of voice, giving you advertising content that doesn’t feel like an advert at all."
+    },
+    {
+        "id": 4,
+        "title": "Advertising Ideas",
+        "info": "Big ideas for how to increase your reach. Fresh ways to sell your products and concepts."
+    },
+    {
+        "id": 5,
+        "title": "Video scripts",
+        "info": "Promotional video, educational or practical, I’ll write the words to accompany your visual vision."
+    },
+    {
+        "id": 6,
+        "title": "Leaflets and Brochures",
+        "info": "Leaflets that gives your message clearly. Brochures that people read and remember."
+    },
+    {
+        "id": 7,
+        "title": "Names, Taglines and Slogans",
+        "info": "Catchy ways I’ll help you be the talk of the town (or your niche anyway)."
+    },
+    {
+        "id": 8,
+        "title": "Direct Response",
+        "info": "Newsletters, direct mail, and email. Giving you words that convert to action."
+    },
+    {
+        "id": 9,
+        "title": "Press Releases",
+        "info": "If you want to get your company’s news some attention, I’ll get your latest product, new team member or event noticed, I can help you with that."
+    },
+    {
+        "id": 10,
+        "title": "Web Copy",
+        "info": "Copywriting and SEO services. Amp up the power of your website and brand."
+    },
+    {
+        "id": 11,
+        "title": "Brand Development",
+        "info": "Helping craft your brand’s story and finding your tone of voice."
+    },
+    {
+        "id": 12,
+        "title": "Proofreading",
+        "info": "I can check any important document, essay, publication, webpage, website, that you’ve written (including all types above) for grammar, spelling, punctuation, structure and facts. I can proofread from Word using Track Changes, PDFs using Adobe Reader or on paper."
+    },
+    {
+        "id": 13,
+        "title": "Copy Editing",
+        "info": "I can edit any type of document or article you’ve written (including all pre-mentioned ones) to proofreading standard plus suggesting any content or structural changes needed, rewriting parts where needed."
+    },
+    {
+        "id": 14,
+        "title": "Web Development",
+        "info": "If you need a website with your words – whether that be an e-commerce site, portfolio site, blog, anything you need – I work closely with web developer <a href='https://nickworrall.co.uk'  target='blank' rel='noopener noreferrer'>Nick Worrall</a>, who I highly recommend, and we can offer you a package deal."
+    }
+]

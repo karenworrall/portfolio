@@ -1,0 +1,35 @@
+.Footer{
+    max-height: auto;
+    background-color: var(--thirdcolor);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.Footer > *{
+    text-align: center;
+}
+
+.link-wrapper{
+    padding: 10px 0;
+}
+
+.Footer p{
+    font-size: small;
+    padding: 10px;
+    margin: 0;
+}
+
+
+.Footer a{
+    color: var(--background);
+}
+
+/* .award-wrapper{
+    height: 200px;
+} */
+
+.award-wrapper img{
+    height: auto;
+    margin: auto 4%;
+}

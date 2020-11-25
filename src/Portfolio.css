@@ -1,0 +1,58 @@
+.portfolio{
+    min-height: 100vh;
+    display: block;
+    width: 100%;
+    background-color: var(--background);
+    padding: 100px 0;
+}
+
+.portfolio-items{
+    display: flex;
+    margin: 50px 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    opacity: 0;
+}
+
+.portfolio-labels{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    opacity: 0;
+}
+
+.portfolio-label{
+    margin: 5px;
+    border: var(--secondcolor);
+    border-style: solid;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    cursor: pointer;
+    line-height: 30px;
+
+    
+}
+
+.active{
+    background-color: var(--secondcolor);
+    color: white;
+}
+
+/* .customModal{
+    max-width: 75vw;
+    background: green;
+} */
+
+.section-animate .portfolio-items{
+    animation: slideUp 500ms ease-in-out;
+    animation-fill-mode: both;
+    animation-delay: 300ms;
+}
+
+.section-animate .portfolio-labels{
+    animation: slideUp 500ms ease-in-out;
+    animation-fill-mode: both;
+    animation-delay: 300ms;
+}
+

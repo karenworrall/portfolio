@@ -1,0 +1,59 @@
+.services{
+    min-height: 100vh;
+    background: white;
+    padding: 100px 0;
+}
+
+.service-wrapper{
+    display: flex;
+    margin: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+
+}
+
+.service-item{
+    max-width: 300px;
+    padding: 10px;
+    border-top: 1px solid var(--thirdcolor);
+    
+}
+
+.service-item h3{
+    text-transform: uppercase;
+    text-align: center;
+    color: var(--thirdcolor);
+}
+
+.service-contact{
+    margin: 10px;
+    text-align: center;
+}
+
+.section-animate .service-contact{
+    animation: popIn 500ms ease-in-out;
+    animation-delay: 700ms;
+    animation-fill-mode: both;
+}
+
+.faqs {
+    margin: 30px 15%;
+}
+
+.faq {
+    background-color: var(--background);
+    border: solid black;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+.faq-question{
+    cursor: pointer;
+}
+
+.section-animate .faqs{
+    animation: slideUp 500ms ease-in-out;
+    animation-delay: 800ms;
+    animation-fill-mode: both;
+}

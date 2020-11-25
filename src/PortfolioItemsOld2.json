@@ -1,0 +1,702 @@
+[
+    {
+        "id": 0,
+        "Title": "Cruise Ship Karen",
+        "FileName": "Cruiseshipkaren",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "Travel site",
+            "Content Writing"
+        ],
+        "Client": "Cruise Ship Karen",
+        "Link": "https://cruiseshipkaren.com",
+        "Info": "I created this site to help give independent, first-hand information of what to do in cruise ships ports for crew members and guests of cruise ships. I use my own knowledge of 15 years working on cruise lines to give insider tips and advice on what to do, as well as how-to pieces, and advice on ship life. I run social media for the site on Facebook and Instagram"
+    },
+    {
+        "id": 1,
+        "Title": "Croatia: Food and Drink",
+        "FileName": "Croatia_Food",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of five major aspects of Croatia’s best food for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 2,
+        "Title": "Top Danish Highlights",
+        "FileName": "Denmark_Highlights",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of some of the best things about Denmark and Danish culture for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 3,
+        "Title": "Five Minute Guide: Dubrovnik",
+        "FileName": "Dubrovnik_Guide",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of some of the best things about beautiful Croatian city Dubrovnik for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 4,
+        "Title": "Israel: Food and Drink",
+        "FileName": "Israel_Food",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview five major aspects of Israel’s Mediterranean meets Middle Eastern cuisine for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 5,
+        "Title": "Israel: Outdoor Activities",
+        "FileName": "Israel_Outdoor",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of the best outdoor activities in Israel, utilizing the country’s unique landscape, for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 6,
+        "Title": "Italy: Art and Culture",
+        "FileName": "Italy_Art",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of some of the finest art in Italy and where you can find it, for the American Society of Travel Advisor’s annual destination guide."
+    },
+    {
+        "id": 7,
+        "Title": "Italy: Outdoor Adventure",
+        "FileName": "Italy_Outdoor",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of the best outdoor activities in Italy, utilizing the country’s varied landscape, for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 8,
+        "Title": "Jamaica: Beaches",
+        "FileName": "Jamaica_Beaches",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of the five finest beaches in Jamaica, focusing on different areas of the island, for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 9,
+        "Title": "Destination: Jamaica",
+        "FileName": "Jamaica_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of some of the best things about Jamaica and Jamaican culture for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 10,
+        "Title": "Kenya: History and Culture",
+        "FileName": "Kenya_History",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of some of the most important aspects of Kenya’s turbulent history and rich culture for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 11,
+        "Title": "Kenya: Outdoor Adventure",
+        "FileName": "Kenya_Outdoor",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of the best outdoor activities in Kenya, utilizing the country’s stunning landscape, for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 12,
+        "Title": "History: London",
+        "FileName": "London_History",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of London’s long history from its beginnings in the bronze age through to Victorian era and beyond, for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 13,
+        "Title": "Top Five London Markets",
+        "FileName": "London_Markets",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of the top five of London’s many markets, covering historical, quirky, fashion and food, for the American Society of Travel Advisor’s annual destination guide."
+    },
+    {
+        "id": 14,
+        "Title": "Five Minute Guide: Mombasa",
+        "FileName": "Mombasa_Guide",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of some of the best things about Kenya’s melting pot and gastronomic hub second city Mombasa for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 15,
+        "Title": "Five Minute Guide: Moscow",
+        "FileName": "Moscow_Guide",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of some of the best things about Russia’s political, historical and cultural capital city Moscow for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 16,
+        "Title": "Destination: Okrug",
+        "FileName": "Okrug_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "A guide to the beautiful medieval town of Okrug on Ciovo Island off the Dalmation Coast in Croatia, for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 17,
+        "Title": "Destination: Osijek",
+        "FileName": "Osijek_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "A guide to the beautiful baroque-designed town of Osijek in the Slavonia Baranja region of Croatia, for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 18,
+        "Title": "Destination: Portugal",
+        "FileName": "Portugal_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview to some of the best things to see, do, and eat in the Western European country of Portugal, for the American Society of Travel Advisor’s annual destination guide."
+    },
+    {
+        "id": 19,
+        "Title": "Destination: Russia",
+        "FileName": "Russia_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview to some of the best cities, landscapes and architecture to see in this expansive northern European country so huge it spans 11 times zones, for the American Society of Travel Advisor’s annual destination guide."
+    },
+    {
+        "id": 20,
+        "Title": "Destination: Sint Eustatius",
+        "FileName": "Sint_Eustatius_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "A guide to the tiny, charming island of Sint Eustatius in the Caribbean and its wonderful festivals, food and nature, for the American Society of Travel Advisor’s annual destination guide."
+    },
+    {
+        "id": 21,
+        "Title": "Destination: Zagreb",
+        "FileName": "Zagreb_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "A guide to the nature, nightlife, history and arts of Croatia’s capital city, for the American Society of Travel Advisor’s annual destination guide."
+    },
+    {
+        "id": 22,
+        "Title": "Destination: Azores",
+        "FileName": "Azores_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "A guide to the seven islands, unique terrain and adventures available in the Mid-Atlantic island group belonging to Portugal, the Azores. For the American Society of Travel Advisor’s annual destination guide."
+    },
+    {
+        "id": 23,
+        "Title": "Israel: Beaches",
+        "FileName": "Israel_Beaches",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview of the five finest beaches in Israel, from the Dead Sea to Red Sea to Mediterranean Sea, for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 24,
+        "Title": "Italy: Food",
+        "FileName": "Italy_Food",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2020",
+        "Link": "",
+        "Info": "An overview five major aspects of gastronomic king Italy’s best foods by region, for the American Society of Travel Advisor’s annual destination guide. "
+    },
+    {
+        "id": 25,
+        "Title": "Destination: Jerusalem",
+        "FileName": "Jerusalem_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2019",
+        "Link": "",
+        "Info": "A guide to the important historical, religious and cultural highlights of Israel’s biblical capital city. For the American Society of Travel Advisor’s annual destination guide."
+    },
+    {
+        "id": 26,
+        "Title": "Destination: Quebec",
+        "FileName": "Quebec_Destination",
+        "FileType": "jpg",
+        "Tags": [
+            "all",
+            "ASTA",
+            "Content Writing"
+        ],
+        "Client": "ASTA Worldwide Destination Guide 2019",
+        "Link": "",
+        "Info": "A guide to the very French, European fairy tale city capital of Quebec Province in Canada. For the American Society of Travel Advisors annual destination guide. "
+    },
+    {
+        "id": 27,
+        "Title": "Salzburgerland: Diary 2019",
+        "FileName": "Salzburgerland_Diary",
+        "FileType": "pdf",
+        "Tags": [
+            "all",
+            "National Geographic Traveller (UK)",
+            "Content Writing"
+        ],
+        "Client": "National Geographic Traveller (UK)",
+        "Link": "",
+        "Info": "A guide to some of the best cultural and quirky annual festivals in the region around Salzburg in Austria. For the October 2018 special edition on Salzburgerland. "
+    },
+    {
+        "id": 28,
+        "Title": "Unmissible Christmas Treats: Chirstmas markets",
+        "FileName": "Christmas_Treats",
+        "FileType": "pdf",
+        "Tags": [
+            "all",
+            "National Geographic Traveller (UK)",
+            "Content Writing"
+        ],
+        "Client": "National Geographic Traveller (UK)",
+        "Link": "",
+        "Info": "A guide to some of the most delicious treats to eat and drink available in Christmas markets in Salzburger. For the October 2018 special edition on Salzburgerland."
+    },
+    {
+        "id": 29,
+        "Title": "Oman's Contrasting Landscapes",
+        "FileName": "Oman_Landscapes",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "National Geographic Traveller (UK)",
+            "Content Writing"
+        ],
+        "Client": "National Geographic Traveller (UK)",
+        "Link": "http://www.natgeotraveller.co.uk/partner-content/partner-content-oman/oman-five-world-places/",
+        "Info": "A guide to some of the Oman’s incredible contrasting scenery including fjords, wadis, caves and deserts. For the Omani Ministry of Tourism online campaign with National Geographic Traveller (UK). "
+    },
+    {
+        "id": 30,
+        "Title": "Wildlife: Where to spot Oman’s big five",
+        "FileName": "Oman_Wildlife",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "National Geographic Traveller (UK)",
+            "Content Writing"
+        ],
+        "Client": "National Geographic Traveller (UK)",
+        "Link": "http://www.natgeotraveller.co.uk/partner-content/partner-content-oman/wildlife-and-where-to-spot-it/",
+        "Info": "A guide to spot Oman’s big five wildlife including green turtles, Arabian leopards, humpback dolphins and dromedaries. For the Omani Ministry of Tourism online campaign with National Geographic Traveller (UK). "
+    },
+    {
+        "id": 31,
+        "Title": "Adventure: Oman’s adrenaline-inducing activities",
+        "FileName": "Oman_Adventure",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "National Geographic Traveller (UK)",
+            "Content Writing"
+        ],
+        "Client": "National Geographic Traveller (UK)",
+        "Link": "http://www.natgeotraveller.co.uk/partner-content/partner-content-oman/five-best-activities-adventurers/",
+        "Info": "A guide to the best adventure activities available in Oman, including dune bashing, canyoning, sailing and hot air ballooning. For the Omani Ministry of Tourism online campaign with National Geographic Traveller (UK). "
+    },
+    {
+        "id": 32,
+        "Title": "Taj Exotica: Tropical bliss in the Maldives",
+        "FileName": "Taj_Exotica",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "National Geographic Traveller (UK)",
+            "Content Writing"
+        ],
+        "Client": "National Geographic Traveller (UK)",
+        "Link": "https://www.nationalgeographic.co.uk/travel/2018/10/taj-exotica-tropical-bliss-in-the-maldives",
+        "Info": "An advertising feature for luxury resort in the Maldives. Partner content for National Geographic Traveller (UK). "
+    },
+    {
+        "id": 33,
+        "Title": "Go Now: Arabian Gems",
+        "FileName": "Arabian_Gems",
+        "FileType": "pdf",
+        "Tags": [
+            "all",
+            "Postcards (Trade magazine)",
+            "Content Writing"
+        ],
+        "Client": "Postcards (Trade magazine)",
+        "Link": "",
+        "Info": "Two-page photo spread touting the highlights of Arabian gem cities of Dubai and Abu Dhabi. For Postcards travel trade magazine, sent to over 50,000 travel professionals around North America. "
+    },
+    {
+        "id": 34,
+        "Title": "On the Trail: Ancient Luxor",
+        "FileName": "Ancient_Luxor",
+        "FileType": "pdf",
+        "Tags": [
+            "all",
+            "Postcards (Trade magazine)",
+            "Content Writing"
+        ],
+        "Client": "Postcards (Trade magazine)",
+        "Link": "",
+        "Info": "Two-page spread with illustrations touring Luxor’s most important ancient sites. For Postcards travel trade magazine, sent to over 50,000 travel professionals around North America. "
+    },
+    {
+        "id": 35,
+        "Title": "Sight to See: Blue Hole, Belize",
+        "FileName": "Blue_Hole",
+        "FileType": "pdf",
+        "Tags": [
+            "all",
+            "Postcards (Trade magazine)",
+            "Content Writing"
+        ],
+        "Client": "Postcards (Trade magazine)",
+        "Link": "",
+        "Info": "Feature on natural phenomenon the Blue Hole in Belize. For Postcards travel trade magazine, sent to over 50,000 travel professionals around North America. "
+    },
+    {
+        "id": 36,
+        "Title": "Pack Your Bags: On Safari",
+        "FileName": "On_Safari",
+        "FileType": "pdf",
+        "Tags": [
+            "all",
+            "Postcards (Trade magazine)",
+            "Content Writing"
+        ],
+        "Client": "Postcards (Trade magazine)",
+        "Link": "",
+        "Info": "Two-page spread on tips on what to take on safari. For Postcards travel trade magazine, sent to over 50,000 travel professionals around North America. "
+    },
+    {
+        "id": 37,
+        "Title": "5 Minute Guide: The Hague",
+        "FileName": "Hague_Guide",
+        "FileType": "pdf",
+        "Tags": [
+            "all",
+            "ABTA",
+            "Content Writing"
+        ],
+        "Client": "ABTA Country By Country Guide",
+        "Link": "",
+        "Info": "A guide of the top five things to do, see, eat and drink in the refined capital of the Netherlands. For the Association of British Travel Agents Country by Country annual destination guide. "
+    },
+    {
+        "id": 38,
+        "Title": "The Complete Edinburgh Itinerary",
+        "FileName": "PD_Edinburgh_3_Days",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/edinburgh-itinerary-3-days/",
+        "Info": "My comprehensive guide to how to best spend three days in Scotland’s capital city Edinburgh, including things to do, where to eat, timings and getting around between attractions. For major travel website The Planet D. "
+    },
+    {
+        "id": 39,
+        "Title": "The Complete Venice Itinerary",
+        "FileName": "PD_Venice_3_Days",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/venice-itinerary-3-days/",
+        "Info": "My comprehensive guide to how to best spend three days in Italy’s city of lights, including things to do, where to eat, timings and getting around between attractions. For major travel website The Planet D."
+    },
+    {
+        "id": 40,
+        "Title": "Where To Stay In Venice",
+        "FileName": "PD_Venice_Stay",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/where-to-stay-in-venice-italy/",
+        "Info": "My comprehensive guide to the main neighbourhoods of Venice, the attractions and benefits of staying at each one. For major travel website The Planet D."
+    },
+    {
+        "id": 41,
+        "Title": "24 of the Best Things to do in Venice",
+        "FileName": "PD_Venice_Things",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/best-things-to-do-in-venice/",
+        "Info": "My comprehensive guide to the best things to do, see, eat, and drink while visiting the beautiful northern Italian city of Venice. For major travel website The Planet D."
+    },
+    {
+        "id": 42,
+        "Title": "22 of the Best Things to do in Rome",
+        "FileName": "PD_Rome_Things",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/things-to-do-in-rome-italy/",
+        "Info": "My comprehensive guide to the best things to do, see, eat, and drink while visiting Italy’s historic capital city Rome. For major travel website The Planet D."
+    },
+    {
+        "id": 43,
+        "Title": "The Ultimate Rome Itinerary",
+        "FileName": "PD_Rome_3",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/3-days-in-rome-itinerary/",
+        "Info": "My comprehensive guide to how to best spend three days in Italy’s historic capital, including things to do, where to eat, timings and getting around between attractions. For major travel website The Planet D."
+    },
+    {
+        "id": 44,
+        "Title": "Where To Stay In Rome",
+        "FileName": "PD_Rome_Stay",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/where-to-stay-in-rome/",
+        "Info": "My comprehensive guide to the main neighbourhoods of Rome, the attractions and benefits of staying at each one. For major travel website The Planet D."
+    },
+    {
+        "id": 45,
+        "Title": "Where To Stay In Edinburgh",
+        "FileName": "PD_Edinburgh_Stay",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/where-to-stay-in-edinburgh-best-places/",
+        "Info": "My comprehensive guide to the main neighbourhoods of “Aulk Reekie”, Edinburgh, the attractions and benefits of staying at each one. For major travel website The Planet D."
+    },
+    {
+        "id": 46,
+        "Title": "Where To Stay In London",
+        "FileName": "PD_London_Stay",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/where-to-stay-in-london-best-areas/",
+        "Info": "My comprehensive guide to the main neighbourhoods of London, the attractions and benefits of staying at each one. For major travel website The Planet D."
+    },
+    {
+        "id": 47,
+        "Title": "22 of the Top Things to do in London",
+        "FileName": "PD_London_Things",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/things-to-do-in-london-england/",
+        "Info": "My comprehensive guide to the best things to do, see, eat, and drink while visiting England’s historic capital city London. For major travel website The Planet D."
+    },
+    {
+        "id": 48,
+        "Title": "The Ultimate London Itinerary",
+        "FileName": "PD_London_3",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/3-days-in-london-itinerary/",
+        "Info": "My comprehensive guide to how to best spend three days in England’s historic capital, including things to do, where to eat, timings and getting around between attractions. For major travel website The Planet D."
+    },
+    {
+        "id": 49,
+        "Title": "26 of the Best Things to do in Edinburgh",
+        "FileName": "PD_Edinburgh_Things",
+        "FileType": "",
+        "Tags": [
+            "all",
+            "The Planet D travel site",
+            "Content Writing"
+        ],
+        "Client": "The Planet D travel site",
+        "Link": "https://theplanetd.com/things-to-do-in-edinburgh-scotland/",
+        "Info": "My comprehensive guide to the best things to do, see, eat, and drink while visiting Scotland’s historic and allegedly haunted capital city Edinburgh. For major travel website The Planet D."
+    }
+]

@@ -1,0 +1,128 @@
+.about{
+    min-height: 100vh;
+    padding: 100px 0;
+    background-color: var(--background);
+
+}
+
+
+.carousel img{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+/* .aboutContent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+} */
+
+.aboutImage{
+    height: auto;
+    max-height: 400px;
+    min-width: 20%;
+    margin: 20px;
+    max-width: 90vw;
+    opacity: 0;
+    float: left;
+    position: relative;
+    z-index: 4;
+}
+
+.section-animate .aboutImage{
+    animation: slideInLeft 300ms linear;
+    animation-delay: 300ms;
+    animation-fill-mode: both;
+}
+
+.aboutWriting{
+    margin: 20px;
+    overflow: hidden;
+}
+
+.section-animate .aboutWriting{
+    opacity: 0;
+    animation: slideUp 500ms ease-in-out;
+    animation-delay: 300ms;
+    animation-fill-mode: both;
+}
+
+.callToAction{
+    text-align: center;
+    clear: left;
+        font-size: x-large;
+}
+
+
+.section-animate .callToAction{
+
+    animation: popIn 500ms ease-in-out;
+    animation-delay: 500ms;
+    animation-fill-mode: both;
+
+}
+
+.education{
+    /* display: flex;
+    flex-direction: column;
+    align-items: baseline;
+
+    justify-content: center;
+    flex-basis: auto; */
+        margin: auto 15%;
+}
+
+/* .section-animate .education{
+    opacity: 0;
+    animation: slideInRight 500ms ease-in-out;
+    animation-delay: 3500ms;
+    animation-fill-mode: both;
+} */
+
+.section-animate .education{
+    opacity: 0;
+    animation: slideUp 500ms ease-in-out;
+    animation-delay: 300ms;
+    animation-fill-mode: both;
+} 
+
+.aboutWriting > * {
+    position: relative;
+    /* min-width: 400px; */
+    /* left: 0; */
+}
+
+
+
+/* .section-animate .fadingEffect {
+    position:absolute;
+    top:0; bottom:0; right:0;
+    width:0%;
+    background:var(--background);
+    animation: showHide 500ms ease-in reverse both;
+    z-index: 1;
+
+} */
+
+/* .section-animate .aboutWriting:nth-child(1) .fadingEffect{
+    animation-delay: 2s;
+} */
+
+
+@keyframes showHide {
+    0% {width:0%}
+    100% {width:100%;}
+}
+
+
+@media screen and (max-width: 800px){
+
+    .aboutImage{
+        /* display: block; */
+        float: none;
+    }
+    .callToAction{
+        font-size: large;
+    }
+}

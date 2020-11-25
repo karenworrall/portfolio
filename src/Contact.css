@@ -1,0 +1,64 @@
+.contact{
+    min-height: 100vh;
+    padding: 100px 0;
+    background-color: var(--background);
+    width: 100%;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.contact-wrapper{
+    margin: auto 10%;
+    width: auto;
+}
+
+.contact-wrapper h3{
+    text-align: center;
+}
+
+.section-animate .contact-wrapper{
+    animation: popIn 1s linear;
+    animation-fill-mode: both;
+    animation-delay: 500ms;
+}
+
+.form-wrapper{
+    width: 100%;
+
+}
+
+form{
+    max-width: 550px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 0 50px;
+}
+
+form > * {
+    margin: 5px 0;
+    background-color: var(--background);
+    color: white;
+}
+
+::placeholder{
+    color: whitesmoke;
+}
+
+textarea{
+    margin: 5px 0;
+    resize: vertical;
+    height: 100px;
+}
+
+.submit{
+    align-self: flex-end;
+    width: 80px;
+    height: 40px;
+    background-color: var(--background);
+}
+
+.section-animate .form-wrapper{
+    animation: popIn 1s linear;
+}
+

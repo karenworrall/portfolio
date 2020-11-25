@@ -1,0 +1,179 @@
+.parallax{
+    width: 100%;
+    min-height: 150vh;
+    /* background-image: url(./img/main2.JPG); */
+    /* background-color: var(--background); */
+    background-size: contain;
+    background-position: right bottom;
+    position: relative;
+}
+
+.parallax > img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 80%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.parallax button{
+    margin: 0;
+    /* position: absolute; */
+    /* top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
+
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+
+    font-size: 16px;
+}
+
+.main-content .fakeButton{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    /* text-align: center; */
+    /* position: relative;
+    left: 50%;
+    transform: translateX(-50%); */
+}
+
+.main-content{
+    margin-top: 100px;
+    margin-right: 30px;
+    /* padding: 10px; */
+    position: absolute;
+    /* left: 10%; */
+    /* top: 20; */
+}
+
+.main-content  h1{
+    color: var(--forthcolor);
+    font-family: 'Trocchi', serif;;
+    /* font-size: auto; */
+    /* text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000; */
+}
+
+.main-content > h1{
+    text-align: center;
+}
+
+.right-half{
+    display: flex;
+    flex-direction: row;
+    /* position: absolute;
+    right: 0;
+    width: 50%; */
+}
+
+.right{
+    flex: 1;
+}
+
+.left{
+    flex: 0.5;
+}
+
+.boxed-content{
+    
+    padding: 10px;
+    
+    margin: auto;
+
+}
+
+.intro-content{
+    display: block;
+    /* background: rgba(230,230,230,0.7); */
+    background: white;
+    position: absolute;
+    bottom: 50vh;
+    width: 100%;
+    padding: 30px;
+    box-sizing: border-box;
+    /* text-align: center; */
+    text-align: center;
+}
+
+.intro-content > h2{
+    font-size: 2em;
+}
+
+
+.logo-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* margin: 20px; */
+}
+
+.logo-wrapper img{
+    height: 70px;
+    margin: 5px;
+}
+
+@media screen and (max-width:800px){
+    .parallax > img{
+        /* height: 100%; */
+        width: auto;
+        display: none;
+    }
+
+    .parallax{
+        background: var(--secondcolor);
+    }
+
+    .main-content{
+        margin: 70px 10px;
+        position: relative;
+        padding-top: 30px;
+    }
+    /* .main-content > *{
+        font-size: 2em;
+    } */
+
+    /* .intro-content > h2{
+        font-size: 0.75em;
+    } */
+
+    .intro-content{
+        position: relative;
+        bottom: auto;
+    }
+
+    .right-half{
+        display: block;
+    }
+
+    .main-content .fakeButton{
+        border-style: solid;
+    }
+
+    .boxed-content{
+        background: rgba(230,230, 230, 0.5);
+        border-color: var(--maincolor);
+        border-style: solid;
+    }
+}
+
+@media screen and (max-width:600px){
+    .boxed-content h1{
+        font-size: 1.5em;
+    }
+}
+
