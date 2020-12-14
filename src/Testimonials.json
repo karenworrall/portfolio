@@ -36,16 +36,10 @@
         "location": "Founder and Editor of The Planet D"
     },
     {
-        "id": 4,
-        "quote": "Among the many students I tutor in the art of copywriting, Karen really stood out. Every piece of work she submitted was meticulously researched and her rationale regarding approach was explained in thorough detail. She consistently went above and beyond to produce work of a very high standard. I have no doubt that this enthusiasm, commitment and attention to detail will translate into her client work. If anyone needs a copywriter, especially one with a passion for travel, Karen will give 100% to any project.",
-        "source": "Lucy van Biljon",
-        "location": "Copywriting Tutor, College of Media and Publishing"
-    },
-    {
-        "id": 5,
-        "quote": "Karen is meticulous with her proofreading skills, reliable at delivering correct, concise copy, and she edits very well helping shape the tone and structure of the work in a way to get the best out of the piece. She successfully negotiated the course and achieved a Distinction grade. I have found her to be intelligent, keen to listen to advice and diligent. Karen possesses many good qualities and is capable of thinking “outside the box”. She is also not afraid to ask questions when she is unsure of something.",
-        "source": "Julian Brouwer",
-        "location": "Proofreading and Editing Tutor, College of Media and Publishing"
+        "id": 10,
+        "quote": "Karen was fantastic! She delivered excellent proofreading to meet a tight deadline, and was friendly to work with. I'll definitely hire her again in the future",
+        "source": "Natalie Dent",
+        "location": "Owner, Written by Natalie"
     },
     {
         "id": 6,
@@ -58,6 +52,18 @@
         "quote": "Karen did a meticulous job proofreading my portfolio website and LinkedIn profile. She catches every tiny error, which made my work look professional. She works quickly and precisely and I’d recommend her for any proofreading work to give any brand the polished, professional look everyone wants.",
         "source": "Nick Worrall",
         "location": "Freelance Web Developer"
+    },
+    {
+        "id": 4,
+        "quote": "Among the many students I tutor in the art of copywriting, Karen really stood out. Every piece of work she submitted was meticulously researched and her rationale regarding approach was explained in thorough detail. She consistently went above and beyond to produce work of a very high standard. I have no doubt that this enthusiasm, commitment and attention to detail will translate into her client work. If anyone needs a copywriter, especially one with a passion for travel, Karen will give 100% to any project.",
+        "source": "Lucy van Biljon",
+        "location": "Copywriting Tutor, College of Media and Publishing"
+    },
+    {
+        "id": 5,
+        "quote": "Karen is meticulous with her proofreading skills, reliable at delivering correct, concise copy, and she edits very well helping shape the tone and structure of the work in a way to get the best out of the piece. She successfully negotiated the course and achieved a Distinction grade. I have found her to be intelligent, keen to listen to advice and diligent. Karen possesses many good qualities and is capable of thinking “outside the box”. She is also not afraid to ask questions when she is unsure of something.",
+        "source": "Julian Brouwer",
+        "location": "Proofreading and Editing Tutor, College of Media and Publishing"
     },
     {
         "id": 9,
